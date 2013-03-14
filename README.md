@@ -1,7 +1,10 @@
-# Warning
+# PWET ! 
 
-This is a sparse checkout of the main dokuwiki repo. 
+## A variation of the default dokuwiki template
 
-If you don't know what this means you should probably got directly to 
+See template.info.txt for more details
 
-https://github.com/splitbrain/dokuwiki/
+This work is based on the dokuwiki template designed by Clarence Lee.
+
+https://www.dokuwiki.org/template:dokuwiki
+
