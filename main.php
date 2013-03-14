@@ -82,6 +82,7 @@ $showSidebar = $hasSidebar && ($ACT=='show');
                             tpl_action('subscribe', 1, 'li', 0, '<span>', '</span>');
                             tpl_action('top',       1, 'li', 0, '<span>', '</span>');
                         ?>
+<li><a href="<?php echo exportlink($ID, 'odt')?>"  class="action draft" rel="nofollow" title="Export"><span>Export ODT</span></a></li>
                     </ul>
                 </div>
             </div>
