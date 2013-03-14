@@ -1,7 +1,7 @@
-base     dokuwiki
-author   Anika Henke
-email    anika@selfthinker.org
-date     2012-10-26
-name     DokuWiki Template
-desc     DokuWiki's default template since 2012
-url      http://www.dokuwiki.org/template:dokuwiki
+base     pwet
+author   damien clochard 
+email    damien@dalibo.info
+date     2013-03-14
+name     PWET ! Template
+desc     A variation of DokuWiki's default template
+url      https://github.com/dalibo/dokuwiki-template-pwet/
