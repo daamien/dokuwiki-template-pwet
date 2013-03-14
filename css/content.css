@@ -247,6 +247,7 @@
 
 .dokuwiki textarea.edit {
     font-family: Consolas, "Andale Mono WT", "Andale Mono", "Bitstream Vera Sans Mono", "Nimbus Mono L", Monaco, "Courier New", monospace;
+    font-family: "Bitstream Vera Sans Mono", "Nimbus Mono L", Monaco, "Courier New", monospace;
 }
 
 .dokuwiki div.preview {
